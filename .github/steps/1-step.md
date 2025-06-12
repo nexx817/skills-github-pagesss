@@ -1,30 +1,12 @@
-## Step 1: Enable GitHub Pages
 
-### 📖 Theory: What is GitHub Pages?
-
-GitHub Pages lets you turn your repository into a website. This is a great way to share your project, resume, portfolio, documentation, or even a blog with the world.
-
-When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-> [!NOTE]
-> Learn more in the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
-
-### ⌨️ Activity: Enable GitHub Pages
-
-
-
-1. Open this repository in a new browser tab so you can work on the steps while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure **Deploy from a branch** is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-
-1. With GitHub Pages enabled Mona will be preparing the next step in this exercise!
-
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-- Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-
-</details>
+<html>
+<head>
+<title>ciencias sociales</title>
+<body background="https://th.bing.com/th/id/OIP.73zBUmc52DM0NAzosU_ocAHaDt?w=332&h=175&c=7&r=0&o=7&pid=1.7&rm=3"=">
+<center>
+<img src="https://th.bing.com/th/id/OIP.Lu8-Cv1ZnX808ou6n6690AHaDR?w=325&h=154&c=7&r=0&o=7&pid=1.7&rm=3" whidth=940   height=210  Border=0 >
+<table border=3>
+<tr>
+     <th><a href="file:///D:/%C2%BFque%20son%20las%20ciencias%20sociales'.html">¿que son las ciencia</a></th>
+     <th><a href="file:///D:/caracteristicas%20de%20las%20ciencias%20sociales.html">caracteristicas de las ciencias sociales</a></th>
+     <th><a href="file:///D:/objetivo%20de%20las%20ciencias%20sociales.html">objetivo de las ciencias sociales en la sociedad</a></th>
